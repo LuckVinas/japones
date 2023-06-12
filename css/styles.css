@@ -193,11 +193,16 @@ section{
     margin-top: 0;
     font-style: italic;
     font-size: 3rem;
+    text-decoration: none;
   
+}
+#cocineros .columna a{
+    text-decoration: none;
 }
 #cocineros .columna-cocinero-info p{
     font-style: italic;
     color: var(--verde);
+    text-decoration: none;
 }
 
 @media (min-width:1200px){
